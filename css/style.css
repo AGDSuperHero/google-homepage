@@ -1,0 +1,156 @@
+
+.top-bar {
+    font-size: 13px;
+    color: #000;
+    opacity: 0.75;
+    display: inline-block;
+    font-family: arial,sans-serif;
+    padding-left: 15px;
+}
+
+#tbar {
+    border-top: 1px solid#e4e4e4;
+    min-width: 100%;
+    line-height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#tbar-less {
+    line-height: 60px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#sign-in {
+    background-color: #0a55d8;
+    border-color: transparent;
+    font-weight: bold;
+    color: #fff;
+    line-height: 26px;
+    width: 70px;
+    border-radius: 2px;
+}
+
+#apps {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 7px;
+}
+
+#logo {
+    text-align: center;
+    position: relative;
+    top: 155px;
+}
+
+#search-bar {
+    text-align: center;
+    position: relative;
+    top: 180px;
+}
+
+#actually-search-bar {
+    width: 470px;
+    border-radius: 50px;
+    line-height: 35px;
+    background-color: transparent;
+    border-color: #f2f2f2;
+}
+
+#search {
+    position: relative;
+    top: 90px;
+    left: 305px;
+    height: 25px;
+    width: 25px;
+}
+
+#buttons {
+    position: relative;
+    top: 20px;
+    background-color: #f2f2f2;
+    border-color: transparent;
+    color: #5F6368;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding: 0 16px;
+    margin: 11px 4px;
+    line-height: 32px;
+}
+
+
+
+#fbar {
+    background:#f2f2f2;
+    border-top: 1px solid#e4e4e4;
+    min-width: 100%;
+    line-height: 40px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+#fbar-less {
+    line-height: 40px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.footer-text {
+    font-size: 13px;
+    color: #5f6368;
+    display: inline-block;
+    font-family: arial,sans-serif;
+    padding-left: 27px;
+}
+
+.padding-right {
+    padding-right: 27px;
+}
+
+
+#location-bar {
+    color: #5f6368;
+    font-size: 13px;
+    position: absolute;
+    bottom: 40px;
+    left: 0px;
+    background:#f2f2f2;
+    border-top: 1px solid#e4e4e4;
+    min-width: 100%;
+    line-height: 40px;
+    font-family: arial,sans-serif;
+}
+
+#location {
+    padding-left: 27px;
+}
+
+
+
+/* 
+.left-footer {
+font-size: 13px;
+color: #5f6368;
+display: inline-block;
+font-family: arial,sans-serif;
+padding-left: 27px;
+}
+
+
+.right-footer {
+    font-size: 13px;
+    color: #5f6368;
+    display: inline-block;
+    font-family: arial,sans-serif;
+    padding-right: 27px;
+}
+
+
+*/
